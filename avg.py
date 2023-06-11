@@ -1,8 +1,6 @@
-aa = {'b' : 0, 'c' : 3}
+test = {'b': 0, 'c': 3, 'd': 6}
 
-aa['d'] = 6
-
-print(aa['d'])
+print(test['d'])
 
 inp = ''
 result = []
