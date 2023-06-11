@@ -1,0 +1,3895 @@
+[{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f63b"
+  },
+  "project_name": "Nest Quest Go: Grosbeaks",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f63c"
+  },
+  "project_name": "Catalina Outer Solar System Survey",
+  "research_areas": [
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Microscopy",
+    "Imaging Science & Photographic Technology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f63d"
+  },
+  "project_name": "Boston Phoenix, 1974!",
+  "research_areas": [
+    "Social Issues",
+    "Development Studies",
+    "History",
+    "Government & Law",
+    "Social Sciences Other Topics",
+    "International Relations",
+    "Research & Experimental Medicine",
+    "Art",
+    "Arts & Humanities Other Topics",
+    "Public Administration",
+    "Mathematical Methods In Social Sciences",
+    "Operations Research & Management Science",
+    "Science & Technology Other Topics"
+  ],
+  "Number_of_Research_Areas": 13,
+  "Number_of_Categories_per_Project": 4,
+  "sdgs": [
+    "SDG #1",
+    "SDG #10",
+    "SDG #4",
+    "SDG #11",
+    "SDG #12",
+    "SDG #8",
+    "SDG #17",
+    "SDG #13",
+    "SDG #9",
+    "SDG #16",
+    "SDG #2"
+  ],
+  "Number of SDGs": 11
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f63e"
+  },
+  "project_name": "Iguanas from Above",
+  "research_areas": [
+    "Marine & Freshwater Biology",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #14",
+    "SDG #15"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f63f"
+  },
+  "project_name": "Nest Quest Go: Raptors",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f640"
+  },
+  "project_name": "Embryo Cam",
+  "research_areas": [
+    "Operations Research & Management Science",
+    "Mathematical & Computational Biology",
+    "Research & Experimental Medicine",
+    "Science & Technology Other Topics",
+    "Remote Sensing",
+    "Physical Geography",
+    "Computer Science",
+    "Development Studies",
+    "Social Sciences Other Topics",
+    "Life Sciences Biomedicine Other Topics",
+    "Environmental Sciences & Ecology",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 12,
+  "Number_of_Categories_per_Project": 4,
+  "sdgs": [
+    "SDG #13",
+    "SDG #11",
+    "SDG #9",
+    "SDG #1",
+    "SDG #12",
+    "SDG #2",
+    "SDG #10",
+    "SDG #17",
+    "SDG #8",
+    "SDG #4",
+    "SDG #7"
+  ],
+  "Number of SDGs": 11
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f641"
+  },
+  "project_name": "A Century of Natural History Observations",
+  "research_areas": [
+    "Remote Sensing"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #1",
+    "SDG #11",
+    "SDG #13",
+    "SDG #10"
+  ],
+  "Number of SDGs": 4
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f642"
+  },
+  "project_name": "AI4Mars",
+  "research_areas": [
+    "Geochemistry & Geophysics",
+    "Remote Sensing",
+    "Geology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f643"
+  },
+  "project_name": "Disk Detective",
+  "research_areas": [
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f644"
+  },
+  "project_name": "FISHstory",
+  "research_areas": [
+    "Fisheries"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #14"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f645"
+  },
+  "project_name": "Every Name Counts",
+  "research_areas": [
+    "Social Issues",
+    "History",
+    "Telecommunication",
+    "Government & Law",
+    "International Relations",
+    "Development Studies",
+    "Information Science & Library Science",
+    "Demography"
+  ],
+  "Number_of_Research_Areas": 8,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f646"
+  },
+  "project_name": "American WWI Burial Cards",
+  "research_areas": [
+    "Remote Sensing",
+    "Demography"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f647"
+  },
+  "project_name": "Spiral Graph",
+  "research_areas": [
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f648"
+  },
+  "project_name": "Aurora Zoo",
+  "research_areas": [
+    "Energy & Fuels",
+    "Spectroscopy",
+    "Geochemistry & Geophysics",
+    "Chemistry",
+    "Physics",
+    "Communication"
+  ],
+  "Number_of_Research_Areas": 6,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #7",
+    "SDG #13"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f649"
+  },
+  "project_name": "Notes from Nature - Flora of Texas and Oklahoma",
+  "research_areas": [
+    "Remote Sensing",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #8",
+    "SDG #1"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f64a"
+  },
+  "project_name": "Fishing in the past",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Parasitology",
+    "Anatomy & Morphology",
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f64b"
+  },
+  "project_name": "Seal Watch",
+  "research_areas": [
+    "Demography",
+    "Remote Sensing",
+    "Biology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #11",
+    "SDG #1",
+    "SDG #10",
+    "SDG #13",
+    "SDG #2",
+    "SDG #14",
+    "SDG #9",
+    "SDG #3",
+    "SDG #17",
+    "SDG #8",
+    "SDG #12",
+    "SDG #15"
+  ],
+  "Number of SDGs": 12
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f64c"
+  },
+  "project_name": "Notes from Nature - MI-Bug",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Remote Sensing",
+    "Zoology"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15",
+    "SDG #1",
+    "SDG #10",
+    "SDG #13",
+    "SDG #11"
+  ],
+  "Number of SDGs": 5
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f64d"
+  },
+  "project_name": "Notes from Nature - Terrestrial Parasite Tracker",
+  "research_areas": [
+    "Parasitology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #1",
+    "SDG #10",
+    "SDG #4",
+    "SDG #11",
+    "SDG #17",
+    "SDG #15",
+    "SDG #8",
+    "SDG #13"
+  ],
+  "Number of SDGs": 8
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f64e"
+  },
+  "project_name": "Planet Four",
+  "research_areas": [
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Geochemistry & Geophysics",
+    "Microscopy",
+    "Imaging Science & Photographic Technology",
+    "Remote Sensing"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f64f"
+  },
+  "project_name": "Maturity of Baby Sounds",
+  "research_areas": [
+    "Linguistics",
+    "Audiology & Speech-Language Pathology"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f650"
+  },
+  "project_name": "Radio Galaxy Zoo: LOFAR",
+  "research_areas": [
+    "Film, Radio & Television",
+    "Telecommunication",
+    "Astronomy & Astrophysics",
+    "Radiology, Nuclear Medicine & Medical Imaging"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 4,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f651"
+  },
+  "project_name": "Star Notes",
+  "research_areas": [
+    "Astronomy & Astrophysics",
+    "Physics",
+    "Mathematics"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f652"
+  },
+  "project_name": "Notes from Nature - Expedition Arctic Botany",
+  "research_areas": [
+    "Remote Sensing",
+    "Environmental Sciences & Ecology",
+    "Plant Sciences",
+    "Entomology",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f653"
+  },
+  "project_name": "Mapping Historic Skies",
+  "research_areas": [
+    "History",
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Art",
+    "Imaging Science & Photographic Technology",
+    "Operations Research & Management Science",
+    "Microscopy",
+    "Remote Sensing",
+    "Entomology",
+    "Science & Technology Other Topics",
+    "Social Sciences Other Topics",
+    "Research & Experimental Medicine",
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 12,
+  "Number_of_Categories_per_Project": 5,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f654"
+  },
+  "project_name": "Offal Wildlife Watching",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Parasitology",
+    "Environmental Sciences & Ecology",
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #2"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f655"
+  },
+  "project_name": "Etch A Cell - Powerhouse Hunt",
+  "research_areas": [
+    "Cell Biology",
+    "Developmental Biology",
+    "Biology",
+    "Electrochemistry",
+    "Energy & Fuels"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f656"
+  },
+  "project_name": "Measuring the ANZACs",
+  "research_areas": [
+    "Remote Sensing",
+    "Operations Research & Management Science",
+    "Research & Experimental Medicine",
+    "History"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f657"
+  },
+  "project_name": "Galaxy Zoo: Clump Scout",
+  "research_areas": [
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f658"
+  },
+  "project_name": "NestCams",
+  "research_areas": [
+    "Ornithology",
+    "Environmental Sciences & Ecology",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f659"
+  },
+  "project_name": "Notes from Nature - NYBG",
+  "research_areas": [
+    "Plant Sciences",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f65a"
+  },
+  "project_name": "Año Nuevo Island - Animal Count",
+  "research_areas": [
+    "Veterinary Sciences",
+    "Zoology",
+    "Environmental Sciences & Ecology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #14",
+    "SDG #15"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f65b"
+  },
+  "project_name": "Notes From Nature - Southeastern U.S. Biodiversity",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #13",
+    "SDG #8",
+    "SDG #14",
+    "SDG #11",
+    "SDG #10"
+  ],
+  "Number of SDGs": 6
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f65c"
+  },
+  "project_name": "Notes from Nature - Capturing California's Flowers",
+  "research_areas": [
+    "Research & Experimental Medicine",
+    "Operations Research & Management Science",
+    "Plant Sciences",
+    "Physical Geography",
+    "Agronomy",
+    "Urban Studies",
+    "Environmental Sciences & Ecology",
+    "Agriculture"
+  ],
+  "Number_of_Research_Areas": 8,
+  "Number_of_Categories_per_Project": 4,
+  "sdgs": [
+    "SDG #13",
+    "SDG #2",
+    "SDG #1",
+    "SDG #11",
+    "SDG #9",
+    "SDG #3",
+    "SDG #10",
+    "SDG #12"
+  ],
+  "Number of SDGs": 8
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f65d"
+  },
+  "project_name": "Chimp&See",
+  "research_areas": [
+    "Arts & Humanities Other Topics",
+    "Environmental Sciences & Ecology",
+    "Biodiversity & Conservation",
+    "Zoology",
+    "Ergonomics",
+    "Parasitology",
+    "Anatomy & Morphology"
+  ],
+  "Number_of_Research_Areas": 7,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #15",
+    "SDG #11",
+    "SDG #10"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f65e"
+  },
+  "project_name": "Rodent Little Brother: Secret Lives of Mice",
+  "research_areas": [
+    "Zoology",
+    "Mathematical & Computational Biology",
+    "Biology",
+    "Veterinary Sciences",
+    "Life Sciences Biomedicine Other Topics",
+    "Remote Sensing",
+    "Computer Science",
+    "Genetics & Heredity"
+  ],
+  "Number_of_Research_Areas": 8,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #1",
+    "SDG #11",
+    "SDG #10",
+    "SDG #2",
+    "SDG #13",
+    "SDG #3"
+  ],
+  "Number of SDGs": 6
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f65f"
+  },
+  "project_name": "Galaxy Zoo Mobile",
+  "research_areas": [
+    "Astronomy & Astrophysics",
+    "Energy & Fuels"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f660"
+  },
+  "project_name": "Skink Spotter NZ",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Parasitology",
+    "Zoology"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #13",
+    "SDG #15"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f661"
+  },
+  "project_name": "Wildwatch Burrowing Owl",
+  "research_areas": [
+    "Ornithology",
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f662"
+  },
+  "project_name": "Macdonald Dictionary",
+  "research_areas": [
+    "Entomology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #5"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f663"
+  },
+  "project_name": "Notes from Nature - CalBug",
+  "research_areas": [
+    "Environmental Sciences & Ecology",
+    "Biodiversity & Conservation",
+    "Entomology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #1",
+    "SDG #13",
+    "SDG #11",
+    "SDG #12",
+    "SDG #10",
+    "SDG #2"
+  ],
+  "Number of SDGs": 7
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f664"
+  },
+  "project_name": "Notes from Nature - WeDigFLPlants",
+  "research_areas": [
+    "Remote Sensing",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #8",
+    "SDG #15",
+    "SDG #1",
+    "SDG #10",
+    "SDG #11",
+    "SDG #14",
+    "SDG #13",
+    "SDG #9",
+    "SDG #2"
+  ],
+  "Number of SDGs": 9
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f665"
+  },
+  "project_name": "Criminal Characters",
+  "research_areas": [
+    "Criminology & Penology",
+    "Social Issues",
+    "History",
+    "Development Studies",
+    "Government & Law",
+    "Social Sciences Other Topics",
+    "Sociology"
+  ],
+  "Number_of_Research_Areas": 7,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #1",
+    "SDG #10",
+    "SDG #16",
+    "SDG #11",
+    "SDG #13",
+    "SDG #3"
+  ],
+  "Number of SDGs": 6
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f666"
+  },
+  "project_name": "Castaway",
+  "research_areas": [
+    "Operations Research & Management Science",
+    "Research & Experimental Medicine",
+    "Environmental Sciences & Ecology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #1",
+    "SDG #3",
+    "SDG #10"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f667"
+  },
+  "project_name": "Plant Letters",
+  "research_areas": [
+    "Plant Sciences",
+    "History & Philosophy of Science",
+    "Agronomy",
+    "Science & Technology Other Topics",
+    "Sustainability Science",
+    "History",
+    "Environmental Sciences & Ecology",
+    "Life Sciences Biomedicine Other Topics",
+    "Social Sciences Other Topics"
+  ],
+  "Number_of_Research_Areas": 9,
+  "Number_of_Categories_per_Project": 5,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f668"
+  },
+  "project_name": "Cedar Creek: Eyes on the Wild",
+  "research_areas": [
+    "Environmental Sciences & Ecology",
+    "Zoology",
+    "Plant Sciences",
+    "Biology",
+    "Demography"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f669"
+  },
+  "project_name": "Earthquake Detective",
+  "research_areas": [
+    "Geochemistry & Geophysics",
+    "Acoustics",
+    "Energy & Fuels"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f66a"
+  },
+  "project_name": "Monkey Health Explorer",
+  "research_areas": [
+    "Zoology",
+    "Anatomy & Morphology",
+    "Biology",
+    "Developmental Biology",
+    "Genetics & Heredity"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #3"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f66b"
+  },
+  "project_name": "PELIcams",
+  "research_areas": [
+    "Limnology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f66c"
+  },
+  "project_name": "SuperWASP Variable Stars",
+  "research_areas": [
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f66d"
+  },
+  "project_name": "South Sudan DiversityCam",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #14",
+    "SDG #8",
+    "SDG #1",
+    "SDG #3"
+  ],
+  "Number of SDGs": 5
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f66e"
+  },
+  "project_name": "Snapshot Hoge Veluwe",
+  "research_areas": [
+    "Veterinary Sciences",
+    "Zoology",
+    "Forestry",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f66f"
+  },
+  "project_name": "Manatee Chat",
+  "research_areas": [
+    "Remote Sensing",
+    "Acoustics",
+    "Biology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f670"
+  },
+  "project_name": "Galaxy Zoo",
+  "research_areas": [
+    "Astronomy & Astrophysics",
+    "Energy & Fuels"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f671"
+  },
+  "project_name": "Reading Nature's Library",
+  "research_areas": [
+    "Entomology",
+    "Zoology",
+    "Plant Sciences"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #11"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f672"
+  },
+  "project_name": "SCOTUS Notes: Behind the Scenes at Supreme Court Conference",
+  "research_areas": [
+    "Government & Law"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #16"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f673"
+  },
+  "project_name": "Calgary Captured",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #11"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f674"
+  },
+  "project_name": "Snapshot Serengeti",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Parasitology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f675"
+  },
+  "project_name": "Project Plumage",
+  "research_areas": [
+    "Ornithology",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f676"
+  },
+  "project_name": "Floating Forests",
+  "research_areas": [
+    "Forestry",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f677"
+  },
+  "project_name": "Parasite Safari",
+  "research_areas": [
+    "Water Resources"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #6",
+    "SDG #15",
+    "SDG #13",
+    "SDG #11"
+  ],
+  "Number of SDGs": 4
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f678"
+  },
+  "project_name": "Seabirdwatch",
+  "research_areas": [
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Imaging Science & Photographic Technology",
+    "Remote Sensing",
+    "Environmental Sciences & Ecology",
+    "Biodiversity & Conservation",
+    "Ornithology",
+    "Microscopy",
+    "Fisheries"
+  ],
+  "Number_of_Research_Areas": 8,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f679"
+  },
+  "project_name": "Solar Stormwatch II",
+  "research_areas": [
+    "Meteorology & Atmospheric Sciences",
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Imaging Science & Photographic Technology",
+    "Astronomy & Astrophysics",
+    "Tropical Medicine",
+    "Microscopy",
+    "Geochemistry & Geophysics"
+  ],
+  "Number_of_Research_Areas": 7,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f67a"
+  },
+  "project_name": "Steelpan Vibrations",
+  "research_areas": [
+    "Acoustics",
+    "Instruments & Instrumentation",
+    "Spectroscopy",
+    "Physics"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f67b"
+  },
+  "project_name": "Wildwatch Kenya",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #14"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f67c"
+  },
+  "project_name": "Fossil Atmospheres",
+  "research_areas": [
+    "Plant Sciences",
+    "Environmental Sciences & Ecology",
+    "Biology",
+    "Energy & Fuels"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #13",
+    "SDG #12",
+    "SDG #11",
+    "SDG #2"
+  ],
+  "Number of SDGs": 4
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f67d"
+  },
+  "project_name": "Michigan ZoomIN",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Parasitology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f67e"
+  },
+  "project_name": "Western Montana Wildlife",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Research & Experimental Medicine",
+    "Operations Research & Management Science",
+    "Environmental Sciences & Ecology",
+    "Genetics & Heredity"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15",
+    "SDG #8",
+    "SDG #14",
+    "SDG #10"
+  ],
+  "Number of SDGs": 4
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f67f"
+  },
+  "project_name": "Bash the Bug",
+  "research_areas": [
+    "Research & Experimental Medicine",
+    "Infectious Diseases",
+    "Life Sciences Biomedicine Other Topics",
+    "Medical Laboratory Technology",
+    "Genetics & Heredity"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #3"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f680"
+  },
+  "project_name": "Exoplanet Explorers",
+  "research_areas": [
+    "Astronomy & Astrophysics",
+    "Remote Sensing"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f681"
+  },
+  "project_name": "Astronomy Rewind",
+  "research_areas": [
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Remote Sensing",
+    "Imaging Science & Photographic Technology",
+    "Microscopy",
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f682"
+  },
+  "project_name": "Nest Quest Go: Orioles",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f683"
+  },
+  "project_name": "Nest Quest Go: Endangered Grassland Birds",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f684"
+  },
+  "project_name": "Nest Quest Go: Waterfowl",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f685"
+  },
+  "project_name": "Nest Quest Go: Flycatchers",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f686"
+  },
+  "project_name": "Nest Quest Go: Finches",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f687"
+  },
+  "project_name": "Jungle Weather",
+  "research_areas": [
+    "Remote Sensing",
+    "Automation & Control Systems",
+    "History"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #1",
+    "SDG #13",
+    "SDG #11",
+    "SDG #10"
+  ],
+  "Number of SDGs": 4
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f688"
+  },
+  "project_name": "Weather 100 - Eskdalemuir",
+  "research_areas": [
+    "Remote Sensing"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #13",
+    "SDG #1",
+    "SDG #11",
+    "SDG #10"
+  ],
+  "Number of SDGs": 4
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f689"
+  },
+  "project_name": "The Koster seafloor observatory",
+  "research_areas": [
+    "Marine & Freshwater Biology",
+    "Water Resources",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15",
+    "SDG #14",
+    "SDG #6"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f68a"
+  },
+  "project_name": "Nest Quest Go: Hummingbirds",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f68b"
+  },
+  "project_name": "Wild Mont-Blanc",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Parasitology",
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #13"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f68c"
+  },
+  "project_name": "Vintage Cuban Radio",
+  "research_areas": [
+    "Telecommunication",
+    "Music",
+    "Film, Radio & Television",
+    "Operations Research & Management Science",
+    "Anthropology"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f68d"
+  },
+  "project_name": "My Dear Mr. Welles: War of the Worlds Fan and Hate Mail",
+  "research_areas": [
+    "Telecommunication",
+    "Film, Radio & Television"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #4",
+    "SDG #1",
+    "SDG #11"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f68e"
+  },
+  "project_name": "Sagehen Mammal Quest",
+  "research_areas": [
+    "Imaging Science & Photographic Technology",
+    "Biology"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f68f"
+  },
+  "project_name": "Rainfall Rescue",
+  "research_areas": [
+    "Remote Sensing"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #1",
+    "SDG #10",
+    "SDG #11",
+    "SDG #13"
+  ],
+  "Number of SDGs": 4
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f690"
+  },
+  "project_name": "Nest Quest Go: Robins",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f691"
+  },
+  "project_name": "University of Wyoming Raccoon Project",
+  "research_areas": [
+    "Zoology",
+    "Veterinary Sciences",
+    "Anatomy & Morphology",
+    "Biology"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f692"
+  },
+  "project_name": "Power to the People",
+  "research_areas": [
+    "Construction & Building Technology",
+    "Energy & Fuels",
+    "Electrochemistry",
+    "Urban Studies",
+    "Thermodynamics",
+    "Automation & Control Systems",
+    "International Relations",
+    "Transportation",
+    "Instruments & Instrumentation",
+    "Operations Research & Management Science",
+    "Public Administration",
+    "Government & Law",
+    "Telecommunication"
+  ],
+  "Number_of_Research_Areas": 13,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #7",
+    "SDG #11",
+    "SDG #1",
+    "SDG #12",
+    "SDG #9",
+    "SDG #3",
+    "SDG #2",
+    "SDG #10"
+  ],
+  "Number of SDGs": 8
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f693"
+  },
+  "project_name": "Nest Quest Go: Titmice",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f694"
+  },
+  "project_name": "Transcribe Cooper",
+  "research_areas": [
+    "Government & Law",
+    "International Relations",
+    "History",
+    "Education & Educational Research",
+    "Social Issues",
+    "Public Administration",
+    "Ethnic Studies"
+  ],
+  "Number_of_Research_Areas": 7,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #4",
+    "SDG #1"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f695"
+  },
+  "project_name": "Nest Quest Go!: Northern Cardinals and Pyrrhuloxia",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f696"
+  },
+  "project_name": "Snapshot Somkhanda",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f697"
+  },
+  "project_name": "Snapshot Blouberg",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #8",
+    "SDG #14",
+    "SDG #10",
+    "SDG #1",
+    "SDG #11"
+  ],
+  "Number of SDGs": 6
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f698"
+  },
+  "project_name": "Planet Hunters TESS mobile",
+  "research_areas": [
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f699"
+  },
+  "project_name": "Nest Quest Go!: Night Birds",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f69a"
+  },
+  "project_name": "Run, Herring, Run!",
+  "research_areas": [
+    "Fisheries",
+    "Limnology",
+    "Marine & Freshwater Biology",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f69b"
+  },
+  "project_name": "Snapshot Venetia",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #8",
+    "SDG #14",
+    "SDG #10",
+    "SDG #1",
+    "SDG #11"
+  ],
+  "Number of SDGs": 6
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f69c"
+  },
+  "project_name": "Snapshot Golden Gate Highlands",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #8",
+    "SDG #14",
+    "SDG #10",
+    "SDG #1"
+  ],
+  "Number of SDGs": 5
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f69d"
+  },
+  "project_name": "Snapshot Tswalu",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #8",
+    "SDG #14",
+    "SDG #10",
+    "SDG #1",
+    "SDG #11"
+  ],
+  "Number of SDGs": 6
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f69e"
+  },
+  "project_name": "Nest Quest Go!: Mountain Bluebirds",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f69f"
+  },
+  "project_name": "Ensemble@Yale",
+  "research_areas": [
+    "Information Science & Library Science",
+    "Art",
+    "History",
+    "Arts & Humanities Other Topics",
+    "Construction & Building Technology"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6a0"
+  },
+  "project_name": "Notes from Nature - How Weird is That?",
+  "research_areas": [
+    "Linguistics",
+    "Audiology & Speech-Language Pathology"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #8",
+    "SDG #1",
+    "SDG #15",
+    "SDG #10",
+    "SDG #11",
+    "SDG #14",
+    "SDG #4"
+  ],
+  "Number of SDGs": 7
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6a1"
+  },
+  "project_name": "Plankton Portal",
+  "research_areas": [
+    "Oceanography",
+    "Energy & Fuels"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #14",
+    "SDG #2"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6a2"
+  },
+  "project_name": "Eye for Diabetes",
+  "research_areas": [
+    "Hematology",
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Ophthalmology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6a3"
+  },
+  "project_name": "Notes From Nature - Herbarium",
+  "research_areas": [
+    "Engineering"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #7",
+    "SDG #2",
+    "SDG #12"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6a4"
+  },
+  "project_name": "Heritage Quest",
+  "research_areas": [
+    "Archaeology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6a5"
+  },
+  "project_name": "Nest Quest Go: Western Bluebirds",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6a6"
+  },
+  "project_name": "Snapshot Molopo",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #8",
+    "SDG #14",
+    "SDG #10"
+  ],
+  "Number of SDGs": 4
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6a7"
+  },
+  "project_name": "Nest Quest Go: American Kestrels",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6a8"
+  },
+  "project_name": "Davy Notebooks Project",
+  "research_areas": [
+    "History",
+    "Construction & Building Technology",
+    "Physical Geography",
+    "Philosophy",
+    "Literature",
+    "Science & Technology Other Topics",
+    "Art",
+    "Operations Research & Management Science",
+    "History & Philosophy of Science",
+    "Social Sciences Other Topics",
+    "Chemistry"
+  ],
+  "Number_of_Research_Areas": 11,
+  "Number_of_Categories_per_Project": 4,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6a9"
+  },
+  "project_name": "Measuring Giraffes",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Demography"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15",
+    "SDG #14",
+    "SDG #8"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6aa"
+  },
+  "project_name": "Snapshot Elephants for Africa",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Parasitology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #1",
+    "SDG #10"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6ab"
+  },
+  "project_name": "SquirrelMapper",
+  "research_areas": [
+    "Forestry",
+    "Genetics & Heredity"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6ac"
+  },
+  "project_name": "Notes from Nature - Labs",
+  "research_areas": [
+    "Research & Experimental Medicine"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6ad"
+  },
+  "project_name": "Deep Lake Explorer",
+  "research_areas": [
+    "Limnology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6ae"
+  },
+  "project_name": "Hubble Asteroid Hunter",
+  "research_areas": [
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Microscopy",
+    "Imaging Science & Photographic Technology",
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6af"
+  },
+  "project_name": "Euclid - Challenge the Machines",
+  "research_areas": [
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Remote Sensing",
+    "Imaging Science & Photographic Technology",
+    "Microscopy",
+    "Optics"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6b0"
+  },
+  "project_name": "Snapshot De Hoop",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #8",
+    "SDG #14",
+    "SDG #10",
+    "SDG #1",
+    "SDG #11"
+  ],
+  "Number of SDGs": 6
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6b1"
+  },
+  "project_name": "Snapshot Kgalagadi",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #8",
+    "SDG #14",
+    "SDG #10",
+    "SDG #1"
+  ],
+  "Number of SDGs": 5
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6b2"
+  },
+  "project_name": "Snapshot Camdeboo",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #8",
+    "SDG #14",
+    "SDG #10",
+    "SDG #1",
+    "SDG #11"
+  ],
+  "Number of SDGs": 6
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6b3"
+  },
+  "project_name": "Wild Gabon",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Veterinary Sciences"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #14",
+    "SDG #8"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6b4"
+  },
+  "project_name": "Wildlife of Los Angeles",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Remote Sensing",
+    "Environmental Sciences & Ecology",
+    "Demography"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #15",
+    "SDG #11",
+    "SDG #1",
+    "SDG #10"
+  ],
+  "Number of SDGs": 4
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6b5"
+  },
+  "project_name": "ForestEyes",
+  "research_areas": [
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Microscopy",
+    "Imaging Science & Photographic Technology",
+    "Forestry",
+    "Remote Sensing"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6b6"
+  },
+  "project_name": "Snapshot Madikwe",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #8",
+    "SDG #14",
+    "SDG #10",
+    "SDG #1",
+    "SDG #11"
+  ],
+  "Number of SDGs": 6
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6b7"
+  },
+  "project_name": "Snapshot Enonkishu",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Agriculture",
+    "Energy & Fuels"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15",
+    "SDG #8",
+    "SDG #14"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6b8"
+  },
+  "project_name": "Snapshot Debshan",
+  "research_areas": [
+    "Environmental Sciences & Ecology",
+    "Biodiversity & Conservation",
+    "Development Studies",
+    "Social Sciences Other Topics",
+    "Business & Economics",
+    "Operations Research & Management Science",
+    "Social Issues",
+    "Sociology",
+    "Social Work",
+    "Philosophy"
+  ],
+  "Number_of_Research_Areas": 10,
+  "Number_of_Categories_per_Project": 4,
+  "sdgs": [
+    "SDG #15",
+    "SDG #1",
+    "SDG #10",
+    "SDG #11",
+    "SDG #12"
+  ],
+  "Number of SDGs": 5
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6b9"
+  },
+  "project_name": "Snapshot Kruger",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #8",
+    "SDG #14",
+    "SDG #10",
+    "SDG #1",
+    "SDG #11"
+  ],
+  "Number of SDGs": 6
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6ba"
+  },
+  "project_name": "Worlds of Wonder",
+  "research_areas": [
+    "History & Philosophy of Science",
+    "Biomedical Social Sciences",
+    "Science & Technology Other Topics",
+    "Life Sciences Biomedicine Other Topics",
+    "Social Sciences Other Topics",
+    "Research & Experimental Medicine",
+    "Behavioral Sciences",
+    "Sport Sciences",
+    "Mathematical Methods In Social Sciences",
+    "Operations Research & Management Science",
+    "Sustainability Science",
+    "Microscopy"
+  ],
+  "Number_of_Research_Areas": 12,
+  "Number_of_Categories_per_Project": 5,
+  "sdgs": [
+    "SDG #3",
+    "SDG #4",
+    "SDG #1",
+    "SDG #9"
+  ],
+  "Number of SDGs": 4
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6bb"
+  },
+  "project_name": "Unearthing Michigan Ecological Data",
+  "research_areas": [
+    "Remote Sensing",
+    "Research & Experimental Medicine",
+    "Operations Research & Management Science",
+    "Environmental Sciences & Ecology"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #1",
+    "SDG #4"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6bc"
+  },
+  "project_name": "Astro-Ecology",
+  "research_areas": [
+    "Veterinary Sciences",
+    "Zoology",
+    "Environmental Sciences & Ecology",
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6bd"
+  },
+  "project_name": "Science Scribbler: Virus Factory",
+  "research_areas": [
+    "Virology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6be"
+  },
+  "project_name": "Snapshot Mountain Zebra",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Forestry",
+    "Environmental Sciences & Ecology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6bf"
+  },
+  "project_name": "Snapshot Pilanesberg",
+  "research_areas": [
+    "Forestry",
+    "Limnology",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6c0"
+  },
+  "project_name": "Snapshot Karoo",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #14",
+    "SDG #8"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6c1"
+  },
+  "project_name": "Zwicky's Quirky Transients",
+  "research_areas": [
+    "Science & Technology Other Topics",
+    "History & Philosophy of Science",
+    "Operations Research & Management Science",
+    "Social Sciences Other Topics",
+    "Astronomy & Astrophysics",
+    "Mathematical Methods In Social Sciences",
+    "Physical Geography",
+    "Life Sciences Biomedicine Other Topics",
+    "Sport Sciences",
+    "Behavioral Sciences",
+    "Computer Science",
+    "Materials Science"
+  ],
+  "Number_of_Research_Areas": 12,
+  "Number_of_Categories_per_Project": 5,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6c2"
+  },
+  "project_name": "Lakeside Dark Data",
+  "research_areas": [
+    "Life Sciences Biomedicine Other Topics",
+    "Science & Technology Other Topics",
+    "Remote Sensing",
+    "Social Sciences Other Topics",
+    "Operations Research & Management Science",
+    "Research & Experimental Medicine",
+    "History",
+    "Physical Geography",
+    "Materials Science",
+    "Education & Educational Research",
+    "Development Studies",
+    "Environmental Sciences & Ecology",
+    "Mathematical Methods In Social Sciences",
+    "Sustainability Science",
+    "Limnology",
+    "Ethnic Studies",
+    "History & Philosophy of Science",
+    "Computer Science",
+    "Sport Sciences",
+    "Arts & Humanities Other Topics",
+    "Mathematical & Computational Biology",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 22,
+  "Number_of_Categories_per_Project": 5,
+  "sdgs": [
+    "SDG #4"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6c3"
+  },
+  "project_name": "COSMIC",
+  "research_areas": [
+    "Remote Sensing",
+    "Geography",
+    "Communication"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #11",
+    "SDG #1",
+    "SDG #10",
+    "SDG #13",
+    "SDG #12",
+    "SDG #2",
+    "SDG #8",
+    "SDG #17",
+    "SDG #9",
+    "SDG #3",
+    "SDG #4"
+  ],
+  "Number of SDGs": 11
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6c4"
+  },
+  "project_name": "Local Group Cluster Search",
+  "research_areas": [
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6c5"
+  },
+  "project_name": "Planet Hunters TESS",
+  "research_areas": [
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6c6"
+  },
+  "project_name": "Decoding Punch Cards",
+  "research_areas": [
+    "Women's Studies"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #5",
+    "SDG #3",
+    "SDG #4",
+    "SDG #1",
+    "SDG #10"
+  ],
+  "Number of SDGs": 5
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6c7"
+  },
+  "project_name": "Nebraska Wildlife Watch",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Geology"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15",
+    "SDG #14",
+    "SDG #8"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6c8"
+  },
+  "project_name": "The Hunt for Galaxy Clusters",
+  "research_areas": [
+    "Astronomy & Astrophysics",
+    "Physics",
+    "Energy & Fuels"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6c9"
+  },
+  "project_name": "Southern Weather Discovery",
+  "research_areas": [
+    "Meteorology & Atmospheric Sciences",
+    "Remote Sensing",
+    "Oceanography"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #13",
+    "SDG #14"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6ca"
+  },
+  "project_name": "Danish Butterflies and Moths 2020 Challenge",
+  "research_areas": [
+    "Remote Sensing",
+    "Entomology",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #1",
+    "SDG #10",
+    "SDG #11",
+    "SDG #17",
+    "SDG #8",
+    "SDG #13",
+    "SDG #9",
+    "SDG #2",
+    "SDG #12"
+  ],
+  "Number of SDGs": 9
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6cb"
+  },
+  "project_name": "Wild Wolf Watch",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Parasitology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6cc"
+  },
+  "project_name": "Variable Star Zoo",
+  "research_areas": [
+    "Astronomy & Astrophysics",
+    "Energy & Fuels"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6cd"
+  },
+  "project_name": "The Wilds' Wildlife Watch",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Parasitology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6ce"
+  },
+  "project_name": "Beluga Bits",
+  "research_areas": [
+    "Veterinary Sciences",
+    "Zoology"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6cf"
+  },
+  "project_name": "1961 Census",
+  "research_areas": [
+    "Remote Sensing",
+    "Statistics & Probability",
+    "Geography"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #1",
+    "SDG #10",
+    "SDG #11",
+    "SDG #9",
+    "SDG #2",
+    "SDG #17",
+    "SDG #13",
+    "SDG #8",
+    "SDG #4"
+  ],
+  "Number of SDGs": 9
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6d0"
+  },
+  "project_name": "Rainforest Flowers",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Plant Sciences",
+    "Forestry",
+    "Environmental Sciences & Ecology",
+    "Tropical Medicine"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6d1"
+  },
+  "project_name": "Space Warps - HSC",
+  "research_areas": [
+    "Astronomy & Astrophysics",
+    "Microscopy"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6d2"
+  },
+  "project_name": "Amazo'N'Oil",
+  "research_areas": [
+    "Zoology",
+    "Veterinary Sciences",
+    "Environmental Sciences & Ecology",
+    "Anatomy & Morphology",
+    "Agriculture",
+    "Biology",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 7,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #3",
+    "SDG #6",
+    "SDG #11",
+    "SDG #12",
+    "SDG #1",
+    "SDG #2",
+    "SDG #10",
+    "SDG #13",
+    "SDG #14"
+  ],
+  "Number of SDGs": 10
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6d3"
+  },
+  "project_name": "Canid Camera",
+  "research_areas": [
+    "Forestry",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6d4"
+  },
+  "project_name": "eMammal",
+  "research_areas": [
+    "Remote Sensing"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #1",
+    "SDG #8",
+    "SDG #11",
+    "SDG #10",
+    "SDG #15",
+    "SDG #13"
+  ],
+  "Number of SDGs": 6
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6d5"
+  },
+  "project_name": "African American Civil War Soldiers",
+  "research_areas": [
+    "Public Administration",
+    "History",
+    "Government & Law",
+    "Construction & Building Technology",
+    "Social Work",
+    "Social Issues"
+  ],
+  "Number_of_Research_Areas": 6,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #1",
+    "SDG #4",
+    "SDG #3",
+    "SDG #10",
+    "SDG #11",
+    "SDG #9",
+    "SDG #12"
+  ],
+  "Number of SDGs": 7
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6d6"
+  },
+  "project_name": "Grouse Grooves",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Ornithology",
+    "Agriculture",
+    "Acoustics"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15",
+    "SDG #4",
+    "SDG #10",
+    "SDG #8",
+    "SDG #1"
+  ],
+  "Number of SDGs": 5
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6d7"
+  },
+  "project_name": "Orangutan Nest Watch",
+  "research_areas": [
+    "Forestry",
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Agriculture"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6d8"
+  },
+  "project_name": "Numbat Discovery",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #14",
+    "SDG #8"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6d9"
+  },
+  "project_name": "Interior Least Tern and Piping Plover Predators",
+  "research_areas": [
+    "Ornithology",
+    "Environmental Sciences & Ecology",
+    "Biodiversity & Conservation",
+    "Parasitology"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6da"
+  },
+  "project_name": "Science Scribbler",
+  "research_areas": [
+    "Biochemistry & Molecular Biology",
+    "Genetics & Heredity",
+    "Biology",
+    "Endocrinology & Metabolism",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "Number_of_Research_Areas": 6,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6db"
+  },
+  "project_name": "Snapshot Grumeti",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6dc"
+  },
+  "project_name": "Snapshot Gondwana",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6dd"
+  },
+  "project_name": "Snapshot APNR",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Philosophy"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6de"
+  },
+  "project_name": "Snapshot Mariri",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #14",
+    "SDG #8"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6df"
+  },
+  "project_name": "Snapshot Ruaha",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6e0"
+  },
+  "project_name": "Identify New Zealand animals",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Urban Studies",
+    "Zoology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15",
+    "SDG #11"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6e1"
+  },
+  "project_name": "Parochial Archive Project in Rome",
+  "research_areas": [
+    "Research & Experimental Medicine",
+    "Operations Research & Management Science",
+    "Development Studies",
+    "Social Sciences Other Topics",
+    "Remote Sensing",
+    "History",
+    "Sociology",
+    "Demography",
+    "Urban Studies",
+    "Arts & Humanities Other Topics"
+  ],
+  "Number_of_Research_Areas": 10,
+  "Number_of_Categories_per_Project": 4,
+  "sdgs": [
+    "SDG #1",
+    "SDG #10"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6e2"
+  },
+  "project_name": "League of Nations in the Digital Age",
+  "research_areas": [
+    "Remote Sensing",
+    "History",
+    "Information Science & Library Science",
+    "Operations Research & Management Science",
+    "International Relations",
+    "Telecommunication",
+    "Computer Science",
+    "Science & Technology Other Topics",
+    "Social Sciences Other Topics",
+    "Government & Law",
+    "Mathematical & Computational Biology",
+    "Construction & Building Technology",
+    "Automation & Control Systems",
+    "Demography",
+    "Art",
+    "Business & Economics",
+    "Public Administration",
+    "Development Studies"
+  ],
+  "Number_of_Research_Areas": 18,
+  "Number_of_Categories_per_Project": 4,
+  "sdgs": [
+    "SDG #1",
+    "SDG #11",
+    "SDG #10",
+    "SDG #17",
+    "SDG #13",
+    "SDG #8",
+    "SDG #9",
+    "SDG #12",
+    "SDG #16",
+    "SDG #2",
+    "SDG #4"
+  ],
+  "Number of SDGs": 11
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6e3"
+  },
+  "project_name": "Cheetahs of Central Namibia",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #14",
+    "SDG #8"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6e4"
+  },
+  "project_name": "Brain Match",
+  "research_areas": [
+    "Neurosciences & Neurology",
+    "Remote Sensing"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6e5"
+  },
+  "project_name": "Leaf Targeting",
+  "research_areas": [
+    "Plant Sciences"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #2",
+    "SDG #11",
+    "SDG #12",
+    "SDG #13"
+  ],
+  "Number of SDGs": 4
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6e6"
+  },
+  "project_name": "Mutual Muses",
+  "research_areas": [
+    "Research & Experimental Medicine",
+    "Operations Research & Management Science",
+    "Communication"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #4",
+    "SDG #9"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6e7"
+  },
+  "project_name": "Agent NEO",
+  "research_areas": [
+    "Remote Sensing",
+    "Energy & Fuels"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6e8"
+  },
+  "project_name": "Weddell Seal Count",
+  "research_areas": [
+    "Marine & Freshwater Biology",
+    "Imaging Science & Photographic Technology",
+    "Demography",
+    "Fisheries"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6e9"
+  },
+  "project_name": "WildCam Darién",
+  "research_areas": [
+    "Zoology",
+    "Biodiversity & Conservation",
+    "Veterinary Sciences",
+    "Parasitology",
+    "Anatomy & Morphology",
+    "Environmental Sciences & Ecology"
+  ],
+  "Number_of_Research_Areas": 6,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6ea"
+  },
+  "project_name": "Colorado Corridors Project",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Remote Sensing"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6eb"
+  },
+  "project_name": "Galaxy Nurseries",
+  "research_areas": [
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6ec"
+  },
+  "project_name": "Supernova Sighting",
+  "research_areas": [
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6ed"
+  },
+  "project_name": "Serengeti Wildebeest Count",
+  "research_areas": [
+    "Statistics & Probability",
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Microscopy",
+    "Imaging Science & Photographic Technology",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6ee"
+  },
+  "project_name": "Focus on Wildlife -- Cleveland Metroparks",
+  "research_areas": [
+    "Environmental Sciences & Ecology",
+    "Biodiversity & Conservation",
+    "Urban Studies"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15",
+    "SDG #11"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6ef"
+  },
+  "project_name": "Chicago Wildlife Watch",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Parasitology",
+    "Statistics & Probability"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #15",
+    "SDG #11"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6f0"
+  },
+  "project_name": "Arizona BatWatch",
+  "research_areas": [
+    "Remote Sensing",
+    "Statistics & Probability",
+    "Zoology",
+    "Demography",
+    "Behavioral Sciences",
+    "Mathematical & Computational Biology"
+  ],
+  "Number_of_Research_Areas": 6,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6f1"
+  },
+  "project_name": "Mapping Change",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Entomology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #13",
+    "SDG #11",
+    "SDG #1",
+    "SDG #10",
+    "SDG #2",
+    "SDG #12",
+    "SDG #8",
+    "SDG #14",
+    "SDG #4"
+  ],
+  "Number of SDGs": 10
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6f2"
+  },
+  "project_name": "Milky Way Project",
+  "research_areas": [
+    "Astronomy & Astrophysics",
+    "Arts & Humanities Other Topics"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6f3"
+  },
+  "project_name": "Camera CATalogue",
+  "research_areas": [
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6f4"
+  },
+  "project_name": "Understanding Animal Faces",
+  "research_areas": [
+    "Information Science & Library Science",
+    "Literature",
+    "Science & Technology Other Topics",
+    "Art",
+    "Religion",
+    "Computer Science",
+    "Social Sciences Other Topics"
+  ],
+  "Number_of_Research_Areas": 7,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6f5"
+  },
+  "project_name": "Supernova Hunters",
+  "research_areas": [
+    "Astronomy & Astrophysics",
+    "Remote Sensing",
+    "Physics",
+    "Energy & Fuels"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6f6"
+  },
+  "project_name": "Decoding the Civil War",
+  "research_areas": [
+    "Education & Educational Research",
+    "Information Science & Library Science",
+    "History",
+    "Public Administration",
+    "Government & Law",
+    "Construction & Building Technology",
+    "Science & Technology Other Topics",
+    "Ethnic Studies"
+  ],
+  "Number_of_Research_Areas": 8,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #4",
+    "SDG #1",
+    "SDG #11"
+  ],
+  "Number of SDGs": 3
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6f7"
+  },
+  "project_name": "Pattern Perception",
+  "research_areas": [
+    "Mathematical & Computational Biology",
+    "Energy & Fuels",
+    "Agriculture"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #7"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6f8"
+  },
+  "project_name": "Western Shield — Camera Watch",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6f9"
+  },
+  "project_name": "Microscopy Masters",
+  "research_areas": [
+    "Biochemistry & Molecular Biology",
+    "Endocrinology & Metabolism",
+    "Biology",
+    "Crystallography"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6fa"
+  },
+  "project_name": "Poppin' Galaxy",
+  "research_areas": [
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6fb"
+  },
+  "project_name": "Snapshots at Sea",
+  "research_areas": [
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Imaging Science & Photographic Technology",
+    "Microscopy",
+    "Remote Sensing",
+    "Research & Experimental Medicine",
+    "Operations Research & Management Science",
+    "Environmental Sciences & Ecology"
+  ],
+  "Number_of_Research_Areas": 7,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6fc"
+  },
+  "project_name": "Comet Hunters",
+  "research_areas": [
+    "Remote Sensing",
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Imaging Science & Photographic Technology",
+    "Microscopy"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6fd"
+  },
+  "project_name": "Jungle Rhythms",
+  "research_areas": [
+    "Forestry",
+    "Tropical Medicine",
+    "Meteorology & Atmospheric Sciences",
+    "Remote Sensing",
+    "Environmental Sciences & Ecology",
+    "Plant Sciences",
+    "Biodiversity & Conservation",
+    "Agriculture"
+  ],
+  "Number_of_Research_Areas": 8,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #15",
+    "SDG #13"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6fe"
+  },
+  "project_name": "Shakespeare's World",
+  "research_areas": [
+    "Remote Sensing",
+    "Arts & Humanities Other Topics"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #1",
+    "SDG #11",
+    "SDG #10",
+    "SDG #13"
+  ],
+  "Number of SDGs": 4
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f6ff"
+  },
+  "project_name": "Fossil Finder",
+  "research_areas": [
+    "Limnology",
+    "Paleontology",
+    "Geology",
+    "Arts & Humanities Other Topics"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f700"
+  },
+  "project_name": "Nest Quest Go!: Wood Duck",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f701"
+  },
+  "project_name": "Nest Quest Go!: Bushtits",
+  "research_areas": [
+    "Ornithology",
+    "Environmental Sciences & Ecology"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f702"
+  },
+  "project_name": "Nest Quest Go: Nuthatches",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f703"
+  },
+  "project_name": "Planetary Response Network: Hurricane Dorian",
+  "research_areas": [
+    "Tropical Medicine",
+    "Meteorology & Atmospheric Sciences",
+    "Remote Sensing"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 3,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f704"
+  },
+  "project_name": "Nest Quest Go: Chickadee-dee",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f705"
+  },
+  "project_name": "Nest Quest Go: Warblers",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f706"
+  },
+  "project_name": "Hawk Talk",
+  "research_areas": [
+    "Ornithology",
+    "Research & Experimental Medicine"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f707"
+  },
+  "project_name": "Battling Birds",
+  "research_areas": [
+    "Ornithology"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f708"
+  },
+  "project_name": "Where are my body organs?",
+  "research_areas": [
+    "Research & Experimental Medicine",
+    "Development Studies",
+    "Anatomy & Morphology"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #3",
+    "SDG #1",
+    "SDG #4",
+    "SDG #10",
+    "SDG #11",
+    "SDG #9",
+    "SDG #12",
+    "SDG #8",
+    "SDG #2",
+    "SDG #13",
+    "SDG #5",
+    "SDG #17"
+  ],
+  "Number of SDGs": 12
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f709"
+  },
+  "project_name": "Galaxy Builder",
+  "research_areas": [
+    "Astronomy & Astrophysics",
+    "Mathematical & Computational Biology"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f70a"
+  },
+  "project_name": "The Community Seagrass Initiative - Seagrass Explorer",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Fisheries"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #14"
+  ],
+  "Number of SDGs": 2
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f70b"
+  },
+  "project_name": "Weather Rescue DWR",
+  "research_areas": [
+    "Meteorology & Atmospheric Sciences"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #13",
+    "SDG #10",
+    "SDG #11",
+    "SDG #12",
+    "SDG #1"
+  ],
+  "Number of SDGs": 5
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f70c"
+  },
+  "project_name": "TreeVersity",
+  "research_areas": [
+    "Plant Sciences",
+    "Radiology, Nuclear Medicine & Medical Imaging",
+    "Imaging Science & Photographic Technology",
+    "Remote Sensing",
+    "Microscopy"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #11"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f70d"
+  },
+  "project_name": "Planetary Response Network & Rescue Global: Caribbean Storms 2017",
+  "research_areas": [
+    "Remote Sensing"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #1",
+    "SDG #10",
+    "SDG #11",
+    "SDG #13"
+  ],
+  "Number of SDGs": 4
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f70e"
+  },
+  "project_name": "Zen of Dragons",
+  "research_areas": [
+    "Biodiversity & Conservation",
+    "Environmental Sciences & Ecology",
+    "Parasitology",
+    "Mathematical & Computational Biology",
+    "Ornithology",
+    "Radiology, Nuclear Medicine & Medical Imaging"
+  ],
+  "Number_of_Research_Areas": 6,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f70f"
+  },
+  "project_name": "Count flowers for bees",
+  "research_areas": [
+    "Food Science & Technology",
+    "Plant Sciences",
+    "Biotechnology & Applied Microbiology",
+    "Agriculture",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 5,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #2"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f710"
+  },
+  "project_name": "Elephant Expedition",
+  "research_areas": [
+    "Forestry"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f711"
+  },
+  "project_name": "The Plastic Tide",
+  "research_areas": [
+    "Oceanography",
+    "Marine & Freshwater Biology"
+  ],
+  "Number_of_Research_Areas": 2,
+  "Number_of_Categories_per_Project": 2,
+  "sdgs": [
+    "SDG #14"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f712"
+  },
+  "project_name": "Galaxy Zoo: 3D",
+  "research_areas": [
+    "Astronomy & Astrophysics"
+  ],
+  "Number_of_Research_Areas": 1,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #0"
+  ],
+  "Number of SDGs": 1
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f713"
+  },
+  "project_name": "Notes from Nature",
+  "research_areas": [
+    "Entomology",
+    "Environmental Sciences & Ecology",
+    "Biodiversity & Conservation"
+  ],
+  "Number_of_Research_Areas": 3,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15",
+    "SDG #11",
+    "SDG #1",
+    "SDG #10",
+    "SDG #13",
+    "SDG #8",
+    "SDG #12",
+    "SDG #9",
+    "SDG #17",
+    "SDG #2",
+    "SDG #3",
+    "SDG #14",
+    "SDG #4"
+  ],
+  "Number of SDGs": 13
+},{
+  "_id": {
+    "$oid": "62a05af2cdab090fead9f714"
+  },
+  "project_name": "Computer Vision: Serengeti",
+  "research_areas": [
+    "Zoology",
+    "Anatomy & Morphology",
+    "Veterinary Sciences",
+    "Environmental Sciences & Ecology"
+  ],
+  "Number_of_Research_Areas": 4,
+  "Number_of_Categories_per_Project": 1,
+  "sdgs": [
+    "SDG #15"
+  ],
+  "Number of SDGs": 1
+}]
