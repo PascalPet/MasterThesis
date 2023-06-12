@@ -26,4 +26,3 @@ from sklearn.metrics.pairwise import cosine_similarity
 with open('Document_embedding_all-mpnet-base-v2.pickle', 'rb') as pkl:
     doc_embedding = pickle.load(pkl)
 
-print(cosine_similarity([doc_embedding[3]], doc_embedding[:4]))

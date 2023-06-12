@@ -29,8 +29,10 @@ def get_document_based_absolute_threshold(threshold):
 def get_document_based_relative_threshold(multiplier):
     projects_with_ranking = get_cossim()
     doc_with_calculated_labels = get_labels_by_relative_threshold(multiplier, projects_with_ranking)
-    serialize_results('doc_relative_threshold' + str(multiplier), doc_with_calculated_labels)
-
+    # serialize_results('doc_relative_threshold' + str(multiplier), doc_with_calculated_labels)
+    for x in doc_with_calculated_labels[1]['ranking']:
+        print(x)
+    return
     print('doc_relative_threshold' + str(multiplier) + ' saved...')
 
 
@@ -44,18 +46,29 @@ def calculate_doc_based_with_array_of_relative_thresholds(multiplier):
         get_document_based_relative_threshold(multi)
 
 
+def print_one_project(doc_name, index):
+    projects = deserialize_results(doc_name)
+
+    for res in projects[index]['result']:
+        print(res)
+
+    for p in projects:
+        print(p['project_name'])
+
+
+
 def run_all():
     thresholds = [0.2, 0.15, 0.1]
-    multiplier = [0.95, 0.9, 0.85]
-    #calculate_doc_based_with_array_of_absolute_threshold(thresholds)
+    multiplier = [0.1, 0.9, 0.85]
+    # calculate_doc_based_with_array_of_absolute_threshold(thresholds)
     calculate_doc_based_with_array_of_relative_thresholds(multiplier)
 
 
-run_all()
+# run
+# run_all()
 
-# a = deserialize_results('doc_absolute_threshold_15.0')
-# print(a[0])
-# loop different approaches
-# loop different encodings includes cossim and ranking
-# loop different thresholds
+print_one_project('doc_absolute_threshold_0.1', 269)
+
+
+
 # METRIC
