@@ -1,9 +1,9 @@
 import json
 
-pdFile = open('projectDescriptions.json')
+pdFile = open('projectDescriptions.json',encoding="utf-8")
 descriptions = json.load(pdFile)
 
-projectMeta = open('zooniverse-for-metabase-22_06_08.json')
+projectMeta = open('zooniverse-for-metabase-20_projects.json', encoding="utf-8")
 metaData = json.load(projectMeta)
 
 projects = []

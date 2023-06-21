@@ -3,7 +3,9 @@ import pickle
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
-model = SentenceTransformer('all-mpnet-base-v2')
+#model = SentenceTransformer('all-mpnet-base-v2')
+#model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer('all-distilroberta-v1')
 #file = open('Labels.json')
 #data = json.load(file)
 
@@ -49,16 +51,11 @@ for i in range(len(finalLabels)):
     labelEmbeddings.append(sentence_embeddings)
 
 
-with open('Label_embedding_all-mpnet-base-v2.pickle', 'wb') as pkl:
+with open('Label_embedding_all-all-distilroberta-v1.pickle', 'wb') as pkl:
     pickle.dump(labelEmbeddings, pkl)
 
-with open('Label_embedding_all-mpnet-base-v2.pickle', 'rb') as pkl:
-    labelEmbeddings2 = pickle.load(pkl)
-
-#print(labelEmbeddings2[2:4])
+#with open('Label_embedding_all-all-MiniLM-L6-v2.pickle', 'rb') as pkl:
+ #   labelEmbeddings2 = pickle.load(pkl)
 
 
-print(cosine_similarity(
-    [labelEmbeddings2[2][0]],
-    labelEmbeddings2[1]
-))
+

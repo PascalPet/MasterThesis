@@ -1,14 +1,14 @@
-def absolute_threshold(threshold, cosinusResults):
+def absolute_threshold(threshold, cosine_results):
     result = []
-    for res in cosinusResults:
+    for res in cosine_results:
         if res['cosinus'] > threshold:
             result.append(res)
     return result
 
 
-def relative_threshold(multiplier, cosinusResults):
-    threshold = cosinusResults[0]['cosinus'] * multiplier
-    return absolute_threshold(threshold, cosinusResults)
+def relative_threshold(multiplier, cosine_results):
+    threshold = cosine_results[0]['cosinus'] * multiplier
+    return absolute_threshold(threshold, cosine_results)
 
 
 # get sorted Cosinus results
