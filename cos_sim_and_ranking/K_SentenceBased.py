@@ -7,12 +7,12 @@ def get_cosinus(cos):
     return cos['cosinus']
 
 
-def get_cossim_sentence_based():
+def get_cossim_sentence_based(filename):
     with open('../pre_processed/LabelEncoding/Label_embedding_all-mpnet-base-v2.pickle', 'rb') as pkl:
         labelEmbeddings = pickle.load(pkl)
 
 #pre_processed/k_sentence_encoding/2_Sentence_Embeddings_all-mpnet-base-v2.pickle
-    with open('../pre_processed/k_sentence_encoding/2_Sentence_Embeddings_all-mpnet-base-v2.pickle', 'rb') as pkl:
+    with open('../pre_processed/k_sentence_encoding/' + filename + '.pickle', 'rb') as pkl:
         sentence_embeddings = pickle.load(pkl)
 
     unchangedLabelsFile = open('../pre_processed/LabelEncoding/Labels.json')
@@ -20,7 +20,7 @@ def get_cossim_sentence_based():
 
     projectDescFile = open('../pre_processed/MergeProjectDescription/mergedProjectDescription.json')
     projectDescriptions = json.load(projectDescFile)
-    for i_doc in range(2):  # change to len(projectDescriptions)
+    for i_doc in range(len(projectDescriptions)):  # change to len(projectDescriptions)
         all_cos = []
         for i_labels in range(len(unchangedLabels)):
             highest_score = -1
@@ -39,7 +39,6 @@ def get_cossim_sentence_based():
     return projectDescriptions
 
 
-pd = get_cossim_sentence_based()
 
 
 

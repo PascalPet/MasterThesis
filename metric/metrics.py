@@ -73,22 +73,28 @@ def calculate_metrics(project_descriptions):
 
 
 thresholds = [round(x, 2) for x in [i * 0.05 for i in range(1, 21)]]
-results = []
-for threshold in thresholds:
-    with open('../serialization/finishedData/doc_relative/all-mpnet-base-v2_doc_relative_threshold'
-              + str(threshold) + '.pickle', 'rb') as pkl:
-        labelEmbeddings = pickle.load(pkl)
 
-    result = calculate_metrics(labelEmbeddings)
-    results.append({
-        'threshold': threshold,
-        'precision': result[0],
-        'recall': result[1],
-        'accuracy': result[2]
-    })
 
-with open('metric_values/all-mpnet-base-v2_doc_relative_threshold.json', 'w', encoding='utf-8') as f:
-    json.dump(results, f, ensure_ascii=False, indent=4)
+for k in range(1, 7):
+    results = []
+    absolute_or_relative = 'absolute'
+    for threshold in thresholds:
+        with open('../serialization/finishedData/' + str(k) + '_word_' + absolute_or_relative + '/'
+                  + 'all-mpnet-base-v2_' + str(k) + '_word_'
+                  + absolute_or_relative + '_threshold'
+                  + str(threshold) + '.pickle', 'rb') as pkl:
+            labelEmbeddings = pickle.load(pkl)
+
+        result = calculate_metrics(labelEmbeddings)
+        results.append({
+            'threshold': threshold,
+            'precision': result[0],
+            'recall': result[1],
+            'accuracy': result[2]
+        })
+
+    with open('metric_values/all-mpnet-base-v2_' + str(k) + '_word_' + absolute_or_relative + '.json', 'w', encoding='utf-8') as f:
+        json.dump(results, f, ensure_ascii=False, indent=4)
 
 #
 # print("Precision:", precision_score)

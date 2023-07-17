@@ -17,7 +17,7 @@ def get_cossim_document_based(filename):
     unchangedLabelsFile = open('../pre_processed/LabelEncoding/Labels.json')
     unchangedLabels = json.load(unchangedLabelsFile)
 
-    projectDescFile = open('../pre_processed/MergeProjectDescription/mergedProjectDescription.json')
+    projectDescFile = open('../pre_processed/MergeProjectDescription/100_projects_mergedProjectDescription.json')
     projectDescriptions = json.load(projectDescFile)
 
     for i_doc in range(len(projectDescriptions)):  # change to len(projectDescriptions)

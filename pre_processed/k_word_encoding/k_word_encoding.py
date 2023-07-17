@@ -33,8 +33,6 @@ def encode_project_descriptions_per_words(project_descriptions, model, k):
             words_encoded.append(word_embeddings)
         print('project ' + str(i) + ' encoded....')
         encoded_project_descriptions.append(words_encoded)
-        if i == 2:
-            break
     return encoded_project_descriptions
 
 

@@ -1,9 +1,9 @@
 import json
 
-pdFile = open('projectDescriptions.json',encoding="utf-8")
+pdFile = open('all_projectdescriptions.json', encoding="utf-8")
 descriptions = json.load(pdFile)
 
-projectMeta = open('zooniverse-for-metabase-20_projects.json', encoding="utf-8")
+projectMeta = open('meta_data_all_projects.json', encoding="utf-8")
 metaData = json.load(projectMeta)
 
 projects = []
@@ -27,6 +27,6 @@ for desc in descriptions:               #Toledo Zoo Wild Shots not included in M
             found = True
             break
 
-with open('mergedProjectDescription.json', 'w') as outfile:
+with open('100_projects_mergedProjectDescription.json', 'w') as outfile:
     json.dump(projects, outfile)
 
