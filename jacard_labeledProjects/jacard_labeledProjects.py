@@ -19,7 +19,7 @@ def jaccard_similarity(list1, list2):
     jaccard_coefficient = len(intersection) / len(union)
     return jaccard_coefficient
 
-print(projects[13])
+#print(projects[13])
 result = []
 sum = 0
 for i_project in (range(len(projects))):
@@ -34,6 +34,7 @@ for i_project in (range(len(projects))):
 
 print(result)
 print(sum/len(projects))
+#print(projects[:50])
 
 # similarity = jaccard_similarity(list1, list2)
 # print(similarity)

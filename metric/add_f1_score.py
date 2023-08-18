@@ -1,5 +1,5 @@
 import json
-
+import numpy as np
 
 def get_file_names():
     files = []
@@ -81,8 +81,29 @@ def get_sentence_approaches():
 def get_document_approaches():
     return get_approaches(get_all_metrics_sorted_by_f1(), 'doc')
 
+def get_relative_approaches():
+    return get_approaches(get_all_metrics_sorted_by_f1(), 'relative')
+
+def get_absolute_approaches():
+    return get_approaches(get_all_metrics_sorted_by_f1(), 'absolute')
+
 
 # def get_sentence_approaches
 
+relative = get_relative_approaches()
+absolute = get_absolute_approaches()
 
-print(get_sentence_approaches())
+sum=0
+for x in get_relative_approaches():
+    sum+= x['f1']
+#print(sum/len(relative))
+
+sum=0
+for y in get_absolute_approaches():
+    sum+= y['f1']
+#print(sum/len(absolute))
+
+print(get_absolute_approaches())
+
+
+
