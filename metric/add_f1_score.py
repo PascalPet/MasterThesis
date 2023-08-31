@@ -1,6 +1,7 @@
 import json
 import numpy as np
 
+
 def get_file_names():
     files = []
     for app in range(2):
@@ -81,29 +82,44 @@ def get_sentence_approaches():
 def get_document_approaches():
     return get_approaches(get_all_metrics_sorted_by_f1(), 'doc')
 
+
 def get_relative_approaches():
     return get_approaches(get_all_metrics_sorted_by_f1(), 'relative')
+
 
 def get_absolute_approaches():
     return get_approaches(get_all_metrics_sorted_by_f1(), 'absolute')
 
 
+def h(a):
+    return " & " + a
+
+
 # def get_sentence_approaches
+results = get_all_metric_values()
 
-relative = get_relative_approaches()
-absolute = get_absolute_approaches()
+# for i in range(26):
+#     print("\\begin{table}[!h]")
+#     print("\\caption{10 best word based approaches}")
+#     print("\\label{tab:word_approaches_f1}")
+#     print("\\centering")
+#     print("\\begin{tabular}{l l l l l }")
+#     print("\\toprule")
+#     print("\\tabhead{Threshold} &\\tabhead{Precision} & \\tabhead{Recall} & \\tabhead{Accuracy} "
+#           "& \\tabhead{F1}  \\\\")
+#     print("\\midrule")
+#     for x in range(i*20, i*20+19):
+#         res = results[x]
+#         print(str(res['threshold'])
+#               + h(str(round(res['precision'], 3)))
+#               + h(str(round(res['recall'], 3)))
+#               + h(str(round(res['accuracy'], 3)))
+#               + h(str(round(res['f1'], 3)))
+#               + "\\\\"
+#               )
+#     print("\\bottomrule \\\\")
+#     print("\\end{tabular}")
+#     print("\\end{table}")
 
-sum=0
-for x in get_relative_approaches():
-    sum+= x['f1']
-#print(sum/len(relative))
-
-sum=0
-for y in get_absolute_approaches():
-    sum+= y['f1']
-#print(sum/len(absolute))
-
-print(get_absolute_approaches())
-
-
+#print(results)
 
